@@ -1,6 +1,4 @@
-# DC-Task-1
-
-# Coordinator-Task-1
+# DC Task 1
 
 - Firstly, go through this recording on Youtube: [Python and Git session](https://youtu.be/j-dZTS0CU7I)
 
